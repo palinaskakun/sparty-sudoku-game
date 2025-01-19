@@ -39,9 +39,10 @@ action sudoku leverages wxWidgets for a cross-platform GUI and utilizes advanced
 
 ---
 
-## 📷 screenshot
-![IMG_2005](https://github.com/user-attachments/assets/d8389e77-1e51-4147-a737-6a409b88f0c2)
+## 📷 gif demos
+![ezgif-3-c538ce6b37](https://github.com/user-attachments/assets/3880c1d1-aac6-47a8-ac24-1fb2d074d24e)
 
+![ezgif-3-64379d95a5](https://github.com/user-attachments/assets/0223986d-add8-418c-ae17-01de57c684ea)
 ---
 
 ## 🎯 Getting Started
